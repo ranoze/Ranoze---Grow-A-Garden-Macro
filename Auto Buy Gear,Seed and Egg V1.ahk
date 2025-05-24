@@ -430,9 +430,9 @@ Send {\}
 Sleep 500
 Send {S}
 Sleep 500
-Send {S}
-Sleep 500
 Send {W}
+Sleep 500
+Send {S}
 Sleep 500
 Send {Enter}
 Sleep 500
@@ -448,9 +448,9 @@ Send {\}
 Sleep 500
 Send {S}
 Sleep 500
-Send {S}
-Sleep 500
 Send {W}
+Sleep 500
+Send {S}
 Sleep 500
 Send {Enter}
 Sleep 500
