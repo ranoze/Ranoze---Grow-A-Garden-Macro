@@ -1,10 +1,10 @@
-﻿;read before use this autohotkey
+;read before use this autohotkey
 ;N button is Start
 ;M button is Exit
 
 Gui, +AlwaysOnTop +ToolWindow -Caption
 Gui, Font, s10, Segoe UI
-Gui, Add, Text, vStatusText, N = Start
+Gui, Add, Text, vStatusText, N=Start
 Gui, Show, x100 y200 NoActivate
 return
 
@@ -22,7 +22,7 @@ if running
     return
 
 running := true
-GuiControl,, StatusText, M = Stop
+GuiControl,, StatusText, M=Stop
 SetTimer, MainLoop, 0
 return
 
