@@ -1,6 +1,6 @@
 # Ranoze---Grow-A-Garden-Macro
 Roblox Grow a garden macro - basic coding
-N button is starting a macro
+N button is starting a macro,
 M button is exit a macro
 
 1. AutoHotKey setup is version 1.1 to use it.
