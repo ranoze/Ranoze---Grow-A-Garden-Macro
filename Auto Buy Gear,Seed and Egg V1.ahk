@@ -133,6 +133,20 @@ Sleep 500
 Send {Enter}{Enter}{Enter}{Enter}{Enter}
 Sleep 1000
 
+Send {S}         ;Favorite Tools [Closed]
+Sleep 500
+Send {Enter}
+Send {S}
+Sleep 500
+
+Send {S}         ;Harvest Tools
+Sleep 500
+Send {Enter}
+Send {S}
+Sleep 500
+Send {Enter}{Enter}{Enter}{Enter}{Enter}
+Sleep 1000
+
 Send {\}          ;End
 Sleep 1000
 Send {WheelUp}
@@ -412,9 +426,9 @@ Send {\}
 Sleep 500
 Send {S}
 Sleep 500
-Send {S}
+Send {D}
 Sleep 500
-Send {W}
+Send {S}
 Sleep 500
 Send {Enter}
 Sleep 500
@@ -430,7 +444,7 @@ Send {\}
 Sleep 500
 Send {S}
 Sleep 500
-Send {W}
+Send {D}
 Sleep 500
 Send {S}
 Sleep 500
@@ -448,7 +462,7 @@ Send {\}
 Sleep 500
 Send {S}
 Sleep 500
-Send {W}
+Send {D}
 Sleep 500
 Send {S}
 Sleep 500
